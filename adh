@@ -1,0 +1,80 @@
+[33mcommit d342560450d8376689c40deb7efcc17b272db54d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c7fa4f3 916dc7b
+Author: mikcstar <85296786+mikcstar@users.noreply.github.com>
+Date:   Tue May 14 12:47:06 2024 +0100
+
+    Merge pull request #5 from mikcstar/release
+    
+    Release
+
+[33mcommit 916dc7baead9c3f575823f7ae7fc35502b4bf461[m[33m ([m[1;31morigin/release[m[33m, [m[1;32mrelease[m[33m)[m
+Author: mikcstar <akalugwueze@gmail.com>
+Date:   Tue May 14 10:27:28 2024 +0100
+
+    may 2024
+
+[33mcommit cc8f6205af2c78b950c4ea67147413745ec0db10[m
+Author: mikcstar <akalugwueze@gmail.com>
+Date:   Mon May 13 14:37:57 2024 +0100
+
+    add more issues file
+
+[33mcommit af475c431ed5380f1bee19a4310d3a64bac54285[m
+Author: mikcstar <akalugwueze@gmail.com>
+Date:   Mon May 13 14:27:59 2024 +0100
+
+    add issues file
+
+[33mcommit 921fc680de8ec5c256d41d2e64f9651a004fe1e2[m
+Merge: 79ec8d1 66418db
+Author: mikcstar <85296786+mikcstar@users.noreply.github.com>
+Date:   Sat May 11 13:26:39 2024 +0100
+
+    Merge pull request #3 from mikcstar/feature-B
+    
+    commited made
+
+[33mcommit 66418dbe4d03de3f0d235e2be6754871828e4024[m
+Author: mikcstar <akalugwueze@gmail.com>
+Date:   Sat May 11 13:21:04 2024 +0100
+
+    commited made
+
+[33mcommit 79ec8d11092b2f09249902219b923c5597f6d475[m
+Merge: be0c503 295c46f
+Author: mikcstar <85296786+mikcstar@users.noreply.github.com>
+Date:   Sat May 11 13:14:26 2024 +0100
+
+    Merge pull request #2 from mikcstar/feature
+    
+    feature dtails
+
+[33mcommit 295c46fd37877222ac093fd112b7400156863fc7[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: mikcstar <akalugwueze@gmail.com>
+Date:   Sat May 11 12:20:26 2024 +0100
+
+    feature dtails
+
+[33mcommit be0c5034737a23f5fd5d1706221e539cb1baadfa[m
+Author: mikcstar <akalugwueze@gmail.com>
+Date:   Fri May 10 17:04:08 2024 +0100
+
+    commit develop
+
+[33mcommit 3f7d67805298e46b13d6e9d6dc6238f204d9b6cd[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: mikcstar <akalugwueze@gmail.com>
+Date:   Fri May 10 16:09:21 2024 +0100
+
+    commit branch
+
+[33mcommit c7fa4f34e653c131579fad00e9d7e4cee8c93bd8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: mikcstar <85296786+mikcstar@users.noreply.github.com>
+Date:   Fri May 10 15:04:29 2024 +0100
+
+    Create main file
+
+[33mcommit bd55482ee5644049ec5a1751c97415609c3fec18[m
+Author: mikcstar <85296786+mikcstar@users.noreply.github.com>
+Date:   Fri May 10 14:49:24 2024 +0100
+
+    Initial commit
